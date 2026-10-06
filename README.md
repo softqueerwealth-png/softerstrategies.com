@@ -4,6 +4,8 @@ One-page site for **Softer Strategies LLC**: a brand, product + experience strat
 
 `index.html` is the whole site in one file: HTML, CSS, JavaScript, and all photos. Open it in a browser and it works. No build step and no dependencies, except Google Fonts (Fraunces + Hanken Grotesk).
 
+Interim website: https://softqueerwealth-png.github.io/softerstrategies.com/
+
 ---
 
 ## For Dahnaya: building it out
